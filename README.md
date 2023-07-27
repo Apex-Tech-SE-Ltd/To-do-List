@@ -1,2 +1,2 @@
 # To-do-List
-This is a To-do List we use in our day to day Life. 
+This is a To-do List and we encourage every member of Apex Tech to use it.
